@@ -11,7 +11,7 @@ class AuthClient
         while (true)
         {
             Console.WriteLine("\nPress ENTER to continue...");
-            Console.ReadLine(); // waits for Enter each time
+            Console.ReadLine(); 
 
             Console.WriteLine("\nSelect Option:");
             Console.WriteLine("1. Login");
@@ -66,4 +66,5 @@ class AuthClient
 
 
             
+
 
